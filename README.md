@@ -55,7 +55,7 @@ FireFoxまたはMicrosoft Edgeで読み込むと表示されます。それ以�
 
 ## GL-Grimoire-MajKey
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-Majkey.svg" width="95%" alt="GL-Grimoire-MajKey - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-MajKey.svg" width="95%" alt="GL-Grimoire-MajKey - Open Source Japanese Font" />
 
 Dingbat font of the Sacred Pentacles, which are from the medieval grimoire "The Greater Key of Solomon".
 
@@ -66,7 +66,7 @@ Dingbat font of the Sacred Pentacles, which are from the medieval grimoire "The 
 
 ## GL-Grimoire-MinKey
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-Minkey.svg" width="95%" alt="GL-Grimoire-MinKey - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-MinKey.svg" width="95%" alt="GL-Grimoire-MinKey - Open Source Japanese Font" />
 
 Dingbat font of the Seventy-Two Spirits' Seals, which are from the medieval grimoire "GOETIA The Lesser Key of Solomon".
 
