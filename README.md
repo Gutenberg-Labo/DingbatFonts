@@ -1,5 +1,14 @@
 # Gutenberg Labo - Dingbat Fonts
 
+These fonts are free softwares.\
+Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.\
+THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.\
+
+これらのフォントはフリー（自由な）ソフトウエアです。
+あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。 
+
+<br />
+
 ## GL-Geomancy
 
 <img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Geomancy.svg" width="95%" alt="GL-Geomancy - Open Source Japanese Font" />
