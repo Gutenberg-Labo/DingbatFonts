@@ -21,7 +21,7 @@ In addition, ligatures (liga) are prepared with the names of each figure. For de
 アラビア世界で発祥し中世の西洋で流行した、ジオマンシー（土占術・土占い・西洋易）のシンボル（卦）のフォントです。\
 スペースキー以外のキー全てにシンボルがランダムに割り当てられており、適当にキーを叩けばシンボルが得られます。\
 PCで卦を出すための占い用途を想定したフォントであり、文字としての実用性はほぼ皆無です。\
-ただし「標準の合字（liga）」設定しています。このフォントでラテン語シンボル名を綴ると自動的に該当シンボルに変換されます。詳しくはReadMeをご覧ください。
+ただし「標準の合字（liga）」設定しています。このフォントでラテン語シンボル名を綴ると自動的に該当シンボルに変換されます。詳しくは[ReadMe](https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Geomancy-readme.txt)をご覧ください。
 
 <br />
 
