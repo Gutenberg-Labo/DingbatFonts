@@ -11,7 +11,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 ## GL-Geomancy
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Geomancy.svg" width="95%" alt="GL-Geomancy - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Geomancy.svg" width="95%" alt="GL-Geomancy - Open Source Dingbat Font" />
 
 Dingbat font of medieval geomantic figures.\
 16 geomantic figures are randomly mapped to all keys of keyboard except Space key.\
@@ -27,7 +27,7 @@ PCで卦を出すための占い用途を想定したフォントであり、文
 
 ## GL-SnowBentley
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-SnowBentley.svg" width="95%" alt="GL-SnowBentley - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-SnowBentley.svg" width="95%" alt="GL-SnowBentley - Open Source Dingbat Font" />
 
 Dingbat font of snow crystals made from the photos of Wilson A. Bentley, who took many snowflakes photos throughout his life.\
 Snow crystals are mapped to all keys of keyboard except Space key.\
@@ -41,7 +41,7 @@ Attention please that this font is of large data, so it may take time to display
 
 ## GL-MahjongTile
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-MahjongTile.svg" width="95%" alt="GL-MahjongTile - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-MahjongTile.svg" width="95%" alt="GL-MahjongTile - Open Source Dingbat Font" />
 
 Dingbat font of Mahjong tile. Includes 4 flower tiles, 4 season tiles and Joker tile.\
 This font has also tiles rotated 90 degree left (Type with shift key), and supports the Unicode Mahjong Tiles range U+1E000 to U+1E02B with bonus.
@@ -52,7 +52,7 @@ This font has also tiles rotated 90 degree left (Type with shift key), and suppo
 
 ### GL-MahjongTile-Clr
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-MahjongTile-Clr.svg" width="95%" alt="GL-MahjongTile-Clr - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-MahjongTile-Clr.svg" width="95%" alt="GL-MahjongTile-Clr - Open Source Dingbat Font" />
 
 Test dingbat font, which is Colored GL-MahjongTile. It is a web font of SVG color font and can not be installed on the devices.\
 It can be displayed when loaded by FireFox or Microsoft Edge. Not supported by other browsers.
@@ -64,7 +64,7 @@ FireFoxまたはMicrosoft Edgeで読み込むと表示されます。それ以�
 
 ## GL-Grimoire-MajKey
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-MajKey.svg" width="95%" alt="GL-Grimoire-MajKey - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-MajKey.svg" width="95%" alt="GL-Grimoire-MajKey - Open Source Dingbat Font" />
 
 Dingbat font of the Sacred Pentacles, which are from the medieval grimoire "The Greater Key of Solomon".
 
@@ -75,7 +75,7 @@ Dingbat font of the Sacred Pentacles, which are from the medieval grimoire "The 
 
 ## GL-Grimoire-MinKey
 
-<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-MinKey.svg" width="95%" alt="GL-Grimoire-MinKey - Open Source Japanese Font" />
+<img src="https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Grimoire-MinKey.svg" width="95%" alt="GL-Grimoire-MinKey - Open Source Dingbat Font" />
 
 Dingbat font of the Seventy-Two Spirits' Seals, which are from the medieval grimoire "GOETIA The Lesser Key of Solomon".
 
