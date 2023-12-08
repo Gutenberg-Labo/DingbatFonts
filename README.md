@@ -1,4 +1,4 @@
-# Gutenberg Labo - Dingbat Fonts
+# Dingbat Fonts
 
 These fonts are free softwares.\
 Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.\
