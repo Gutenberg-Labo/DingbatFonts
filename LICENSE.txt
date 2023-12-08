@@ -1,4 +1,4 @@
-Copyright (C) 2007-2023 Gutenberg Labo(https://github.com/Gutenberg-Labo), All rights reserved.
+Copyright (C) 2007-2023 Gutenberg Labo (https://github.com/Gutenberg-Labo), All rights reserved.
 
 These fonts are free softwares.
 Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.
