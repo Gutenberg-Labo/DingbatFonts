@@ -7,7 +7,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 これらのフォントはフリー（自由な）ソフトウエアです。\
 あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。 
 
-<br />
+******
 
 ## GL-Geomancy
 
@@ -23,7 +23,7 @@ In addition, ligatures (liga) are prepared with the names of each figure. For de
 PCで卦を出すための占い用途を想定したフォントであり、文字としての実用性はほぼ皆無です。\
 ただし「標準の合字（liga）」設定しています。このフォントでラテン語シンボル名を綴ると自動的に該当シンボルに変換されます。詳しくは[ReadMe](https://github.com/Gutenberg-Labo/DingbatFonts/blob/main/documents/GL-Geomancy-readme.txt)をご覧ください。
 
-<br />
+******
 
 ## GL-SnowBentley
 
@@ -37,7 +37,7 @@ Attention please that this font is of large data, so it may take time to display
 スペースキー以外のキー全てに雪の結晶を割り当てました。\
 データサイズが大きいフォントであるため、表示に時間がかかる場合があります。ご注意ください。
 
-<br />
+******
 
 ## GL-MahjongTile
 
@@ -60,7 +60,7 @@ It can be displayed when loaded by FireFox or Microsoft Edge. Not supported by o
 GL-MahjongTileに色をつけた、SVGカラーフォントのWebフォントの試験公開です。デバイスへのインストールはできません。\
 FireFoxまたはMicrosoft Edgeで読み込むと表示されます。それ以外のブラウザではサポートされていません。
 
-<br />
+******
 
 ## GL-Grimoire-MajKey
 
@@ -71,7 +71,7 @@ Dingbat font of the Sacred Pentacles, which are from the medieval grimoire "The 
 ヨーロッパで流布していた魔術書（グリモア／グリモワール）より\
 英国の魔術師マグレガー・マサースが編集・出版したグリモア「ソロモン王の鍵」に出てくる惑星護符のディンバット（絵フォント）です。
 
-<br />
+******
 
 ## GL-Grimoire-MinKey
 
