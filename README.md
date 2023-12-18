@@ -48,7 +48,7 @@ This font has also tiles rotated 90 degree left (Type with shift key), and suppo
 
 麻雀牌のディンバット（絵フォント）です。花牌８種・百搭牌入り。シフトキーで左90度回転した牌が出ます。\
 せっかくなのでユニコードの麻雀牌領域（U+1E000～U+1E02B）にもオマケで対応グリフを入れました。しかし、このフォントはあくまで絵フォントです。\
-普通のユニコード麻雀牌領域対応フォントをお求め方はGL-ノバンチカをご利用ください。
+普通のユニコード麻雀牌領域対応フォントをお求め方は[GL-ノバンチカ源](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto)をご利用ください。
 
 ### GL-MahjongTile-Clr
 
